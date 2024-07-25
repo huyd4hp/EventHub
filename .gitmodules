@@ -1,0 +1,21 @@
+[submodule "APIGateway"]
+	path = APIGateway
+	url = https://github.com/huyd4hp/Tyk_Gateway.git
+[submodule "ConsulRegistry"]
+	path = ConsulRegistry
+	url = https://github.com/huyd4hp/ServiceRegistry.git
+[submodule "ServiceCommunity"]
+	path = ServiceCommunity
+	url = https://github.com/huyd4hp/ServiceCommunity.git
+[submodule "MonitorService"]
+	path = MonitorService
+	url = https://github.com/huyd4hp/ServiceMonitor.git
+[submodule "SecretService"]
+	path = SecretService
+	url = https://github.com/huyd4hp/SecretService.git
+[submodule "APIService/AuthService"]
+	path = APIService/AuthService
+	url = https://github.com/huyd4hp/User-Auth-Service.git
+[submodule "APIService/EventService"]
+	path = APIService/EventService
+	url = https://github.com/huyd4hp/EventServiceAPI.git
