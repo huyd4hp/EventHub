@@ -19,3 +19,12 @@
 [submodule "APIService/EventService"]
 	path = APIService/EventService
 	url = https://github.com/huyd4hp/EventServiceAPI.git
+[submodule "APIService/BookingService"]
+	path = APIService/BookingService
+	url = https://github.com/huyd4hp/BookingService.git
+[submodule "APIService/PaymentService"]
+	path = APIService/PaymentService
+	url = https://github.com/huyd4hp/PaymentService.git
+[submodule "APIService/NotificationService"]
+	path = APIService/NotificationService
+	url = https://github.com/huyd4hp/NotificationService.git
